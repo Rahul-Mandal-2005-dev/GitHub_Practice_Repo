@@ -1,3 +1,4 @@
-print("hello world")
-a , b = 1,3
-print(a+b)
+n = 10
+while(n >= 0):
+    print(n)
+    n -=1
